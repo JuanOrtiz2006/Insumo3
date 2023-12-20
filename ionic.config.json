@@ -1,0 +1,7 @@
+{
+  "name": "Insumo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
